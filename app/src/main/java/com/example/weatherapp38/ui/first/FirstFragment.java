@@ -14,6 +14,7 @@ import com.example.weatherapp38.R;
 import com.example.weatherapp38.base.BaseFragment;
 import com.example.weatherapp38.data.local.WeatherDao;
 import com.example.weatherapp38.data.model.Weather;
+import com.example.weatherapp38.databinding.FragmentFirstBinding;
 
 import javax.inject.Inject;
 

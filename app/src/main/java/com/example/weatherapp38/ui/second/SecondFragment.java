@@ -1,6 +1,7 @@
 package com.example.weatherapp38.ui.second;
 
 import com.example.weatherapp38.base.BaseFragment;
+import com.example.weatherapp38.databinding.FragmentSecondBinding;
 
 import java.util.Objects;
 
