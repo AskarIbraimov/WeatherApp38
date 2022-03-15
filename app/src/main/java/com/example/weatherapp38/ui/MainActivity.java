@@ -8,6 +8,7 @@ import com.example.weatherapp38.R;
 
 import dagger.hilt.android.AndroidEntryPoint;
 
+
 @AndroidEntryPoint
 public class MainActivity extends AppCompatActivity {
 
